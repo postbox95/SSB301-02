@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	background-color: #fdfdfd;
+}
+img{
+	max-width: 100%;	
+}
+
+.overall{
+background-color: #fdfdfd;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.information{
+	color: #eb5245;
+}
+.organize{
+	color: #6da1f6;
+}
+.universally{
+	color: #33a753;
+}
+.top{
+	width: 80px;
+	padding-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: -2px;
+}
+.useful{
+	color: #f8a300;
+}
+
+
+.text1{
+	text-align:  center;
+	font-family: Segoe UI;
+	font-size: 20px;
+	}
+.text2{
+	text-align: left;
+	font-family: Segoe UI;
+	line-height: 42px;
+	font-size: 20px;
+}
+.text3{
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	text-align: justify
+
+}
+
+.text4{
+	text-align: center;
+	font-family: Segoe UI;
+	background-color: #0ca26d;
+	padding: 15px;
+	margin-bottom: 20px;
+	font-size: 30px;
+	color: white;
+
+}
+.line	{
+	
+	width:99.8%;
+	text-align: justify;
+  	
+}
